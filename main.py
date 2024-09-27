@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Portofolio Stephen", page_icon="😁", layout="wide")
+st.set_page_config(page_title="Portofolio Stephen", page_icon="🙍🏻", layout="wide")
 
 # function css
 def local_css(file_name):
