@@ -1,5 +1,4 @@
 import streamlit as st
-import requests 
 
 st.set_page_config(page_title="Portofolio Stephen", page_icon="😁", layout="wide")
 
