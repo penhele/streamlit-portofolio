@@ -7,7 +7,7 @@ def local_css(file_name):
     with open(file_name) as f:
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
-local_css("cihuy/style/style.css")
+local_css("style/style.css")
 
 with st.container():
     st.subheader("Hi, Saya Stephen :wave:")
