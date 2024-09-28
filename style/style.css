@@ -13,15 +13,7 @@ header {
     background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
 }
 
-[data-testid="stMarkdownContainer"] {
-    background-color: aliceblue;
-}
-
 h1, h2, h3, p, li {
-    color: white;
-}
-
-li a {
     color: white;
 }
 
