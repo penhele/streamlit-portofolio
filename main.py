@@ -36,7 +36,7 @@ with st.container():
             Saya adalah mahasiswa aktif Universitas Gunadarma, jurusan Informatika angkatan 2022. 
             Setelah 2 tahun berkuliah, saya menemukan tujuan saya mengetik kode program selama ini, yaitu berminat karir sebagai Android Developer. 
             \n\n
-            Saya tidak hanya aktif di kuliah, saya juga aktif dalam komunitas gereja, contohnya menjadi panitia untuk mensukseskan acara besar gereja (Natal, Paskah, dll).
+            Saya tidak hanya aktif di kuliah, saya juga aktif dalam komunitas gereja, contohnya menjadi panitia acara besar gereja (Natal, Paskah, dll).
         ''')
 
 
