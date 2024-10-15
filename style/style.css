@@ -13,9 +13,20 @@ header {
     background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
 }
 
-h1, h2, h3, p, li {
-    color: white;
+[data-testid="stImageContainer"] img {
+    border-radius: 100px;
+    width: 300px;
 }
+
+.stImage {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+/* h1, h2, h3, p, li {
+    color: white;
+} */
 
 a {
     text-decoration: none;
