@@ -9,11 +9,6 @@ def local_css(file_name):
 
 local_css("style/style.css")
 
-# with st.container():
-#     st.image('image/stephen.jpg')
-#     st.subheader("Hi, Saya Stephen Helenus :wave:")
-#     st.title("Mahasiswa Gunadarma - Angkatan 2022")
-#     st.write("Seorang manusia yang setiap hari duduk di depan laptop dan mengetik sebuah kode.")
 with st.container():
     left_column, right_column = st.columns(2)
 
