@@ -52,7 +52,7 @@ with st.container():
             - Asisten Laboratorium LePKom | 2023 - Sekarang
             - Tim inti Kelompok Studi Pasar Modal (KSPM) | 2023 - 2024
             - Asisten Research Doctoral - Gunadarma | 2024
-            - Partisipan lomba Hackfest - GDSC | 2024
+            - Partisipan lomba Hackfest - GDSC | 2023 - 2024
             - Partisipan lomba Gemastik (Div. Competitive Programming) | 2023
             - Partisipan lomba Gemastik (Div. UX) | 2024 
             - Partisipan Samsung Innovation Campus | 2024
