@@ -69,8 +69,8 @@ with st.container():
     st.header('Projek')
 
     # 7MinutesWorkout
-    st.write('- [7MinutesWorkout](7minutesworkout)')
-    st.write('7MinutesWorkout adalah aplikasi Android yang saya buat. Aplikasi 7MinutesWorkout tidak murni buatan saya. Saya dipandu di dalam kursus yang saya beli di platform kursus berbayar, yaitu Udemy.')
+    st.write('- [7MinutesWorkout](minutesworkout)')
+    st.write('7MinutesWorkout adalah aplikasi Android yang saya buat. Meski saya dipandu dalam kursus yang saya beli di platform kursus berbayar, yaitu Udemy, saya sangat banyak belajar dari kursus tersebut.')
     st.write('7MinutesWorkout adalah aplikasi workout yang di mana hanya dilakukan selama 7 menit saja. Terdapat 12 gerakan yang tersedia dan masing-masing gerakan hanya diwaktui selama 30 detik.')
 
     # TeNaR
